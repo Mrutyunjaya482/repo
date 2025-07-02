@@ -2,7 +2,7 @@ package string3;
 
 public class LengthOfAString {
 public static void main(String[] args) {
-	String s="Mathematics";
+	String s="institution";
 	int count=0;
 	char ch[]=s.toCharArray();
 	for (int i = 0; i < ch.length; i++) {
